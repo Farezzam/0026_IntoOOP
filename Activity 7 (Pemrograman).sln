@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Activity 7 (Pemrograman)", "Activity 7 (Pemrograman)\Activity 7 (Pemrograman).vcxproj", "{B74CC68C-DF43-4B66-8A92-E904E4E058F8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Activity 7 (Pemrograman) - 2", "Activity 7 (Pemrograman) - 2\Activity 7 (Pemrograman) - 2.vcxproj", "{27739B3A-0E58-469C-92C1-5F76286F37F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B74CC68C-DF43-4B66-8A92-E904E4E058F8}.Release|x64.Build.0 = Release|x64
 		{B74CC68C-DF43-4B66-8A92-E904E4E058F8}.Release|x86.ActiveCfg = Release|Win32
 		{B74CC68C-DF43-4B66-8A92-E904E4E058F8}.Release|x86.Build.0 = Release|Win32
+		{27739B3A-0E58-469C-92C1-5F76286F37F5}.Debug|x64.ActiveCfg = Debug|x64
+		{27739B3A-0E58-469C-92C1-5F76286F37F5}.Debug|x64.Build.0 = Debug|x64
+		{27739B3A-0E58-469C-92C1-5F76286F37F5}.Debug|x86.ActiveCfg = Debug|Win32
+		{27739B3A-0E58-469C-92C1-5F76286F37F5}.Debug|x86.Build.0 = Debug|Win32
+		{27739B3A-0E58-469C-92C1-5F76286F37F5}.Release|x64.ActiveCfg = Release|x64
+		{27739B3A-0E58-469C-92C1-5F76286F37F5}.Release|x64.Build.0 = Release|x64
+		{27739B3A-0E58-469C-92C1-5F76286F37F5}.Release|x86.ActiveCfg = Release|Win32
+		{27739B3A-0E58-469C-92C1-5F76286F37F5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
